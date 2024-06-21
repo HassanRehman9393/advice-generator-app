@@ -7,7 +7,6 @@ This is a simple Advice Generator App that displays a random piece of advice eac
 ## Table of Contents
 - [Challenge](#challenge)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -28,18 +27,6 @@ The challenge from Frontend Mentor was to build out this Advice Generator App an
 - Displays a random piece of advice.
 - Clean and modern user interface.
 - Responsive design.
-
-## Project Structure
-
-/your-project
-├── /images
-│   ├── favicon-32x32.png
-│   ├── icon-dice.svg
-│   ├── pattern-divider-desktop.svg
-│   └── screenshot.png
-├── index.html
-├── style.css
-└── app.js
 
 ## Technologies Used
 
