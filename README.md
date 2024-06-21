@@ -2,7 +2,7 @@
 
 This is a simple Advice Generator App that displays a random piece of advice each time you press the dice button. This project is a challenge provided by [Frontend Mentor](https://www.frontendmentor.io).
 
-![Advice Generator](./images/screenshot.png)
+![Advice Generator](./images/App-screenshot.png)
 
 ## Table of Contents
 - [Challenge](#challenge)
